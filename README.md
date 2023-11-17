@@ -4,3 +4,9 @@
 
 # spring-cloud
 [sprint-cloud](https://www.javainuse.com/spring/springcloud)
+
+# nacos
+
+https://github.com/alibaba/spring-cloud-alibaba
+
+[Nacos视频教程（无废话版）](https://www.bilibili.com/video/BV1WZ4y1w7ww/)
