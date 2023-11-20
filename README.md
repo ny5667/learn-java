@@ -16,3 +16,7 @@ https://github.com/alibaba/spring-cloud-alibaba
 # ssm
 
 [ssm](https://github.com/liyifeng1994/ssm)
+
+# learn java
+
+https://hyperskill.org/tracks?category=2
