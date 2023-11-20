@@ -17,6 +17,8 @@ https://github.com/alibaba/spring-cloud-alibaba
 
 [ssm](https://github.com/liyifeng1994/ssm)
 
+[ssm](https://sampig.github.io/tutorial/2019/07/24/practice-spring-ssm)
+
 # learn java
 
 [Jetbrains Academy](https://hyperskill.org/tracks?category=2)
