@@ -19,4 +19,4 @@ https://github.com/alibaba/spring-cloud-alibaba
 
 # learn java
 
-https://hyperskill.org/tracks?category=2
+[Jetbrains Academy](https://hyperskill.org/tracks?category=2)
