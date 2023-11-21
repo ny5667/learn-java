@@ -22,3 +22,9 @@ https://github.com/alibaba/spring-cloud-alibaba
 # learn java
 
 [Jetbrains Academy](https://hyperskill.org/tracks?category=2)
+
+# pattern
+
+https://www.baeldung.com/java-dynamic-proxies
+
+#
