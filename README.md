@@ -27,4 +27,4 @@ https://github.com/alibaba/spring-cloud-alibaba
 
 https://www.baeldung.com/java-dynamic-proxies
 
-#
+https://www.baeldung.com/java-factory-pattern
