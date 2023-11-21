@@ -28,3 +28,8 @@ https://github.com/alibaba/spring-cloud-alibaba
 https://www.baeldung.com/java-dynamic-proxies
 
 https://www.baeldung.com/java-factory-pattern
+
+# Active Mq
+
+[ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
+#
