@@ -33,7 +33,7 @@ https://www.baeldung.com/java-factory-pattern
 
 [ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
 
-# itheima
+# 黑马程序员面试宝典
 
 [黑马程序员面试宝典(java)Beta6.0.pdf](https://drive.internxt.com/sh/file/3ade3edc-fc76-4f51-ae3a-2b2165ad2d89/1e5a4726a16fecf889cea8d65f2006ff3f21f38543d7dbf35d9b5a16a8d57d0f)
 
@@ -46,3 +46,10 @@ int 类型是 **栈**
 String 类型是 **堆**
 
 看到104页
+
+# 深入浅出高并发
+
+https://redspider.gitbook.io/concurrent/
+
+https://github.com/RedSpider1/concurrent
+#
