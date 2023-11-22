@@ -45,11 +45,10 @@ int 类型是 **栈**
 
 String 类型是 **堆**
 
-看到152页
+看到208页
 
 # 深入浅出高并发
 
 https://redspider.gitbook.io/concurrent/
 
 https://github.com/RedSpider1/concurrent
-#
