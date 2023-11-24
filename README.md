@@ -33,22 +33,12 @@ https://www.baeldung.com/java-factory-pattern
 
 [ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
 
-# 黑马程序员面试宝典
-
-[黑马程序员面试宝典(java)Beta6.0.pdf](https://drive.internxt.com/sh/file/3ade3edc-fc76-4f51-ae3a-2b2165ad2d89/1e5a4726a16fecf889cea8d65f2006ff3f21f38543d7dbf35d9b5a16a8d57d0f)
-
-* 当一个对象被当作参数传递到一个方法后，此方法可改变这个对象的属性，并可返回变化后的结果，那么这里到底是值传递还是引用传递?
-
-类型有堆 和 栈
-
-int 类型是 **栈**
-
-String 类型是 **堆**
-
-看到320页
-
 # 深入浅出高并发
 
 https://redspider.gitbook.io/concurrent/
 
 https://github.com/RedSpider1/concurrent
+
+# 黑马程序员面试宝典
+
+[黑马程序员面试宝典(java)Beta6.0.pdf](https://drive.internxt.com/sh/file/3ade3edc-fc76-4f51-ae3a-2b2165ad2d89/1e5a4726a16fecf889cea8d65f2006ff3f21f38543d7dbf35d9b5a16a8d57d0f)
