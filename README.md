@@ -80,3 +80,7 @@ MYSQL技术内幕
 ![HTTP协议](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/2023-11-27-HTTP协议.jpg)
 
 HTTP协议
+
+# Spring Cloud Geteway
+
+[Building an API Gateway in Java with Spring Cloud Gateway](https://www.youtube.com/watch?v=EKoq98KqvrI)
