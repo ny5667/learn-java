@@ -29,7 +29,7 @@ https://www.baeldung.com/java-dynamic-proxies
 
 https://www.baeldung.com/java-factory-pattern
 
-# Active Mq
+# Active MQ
 
 [ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
 
