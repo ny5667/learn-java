@@ -29,6 +29,8 @@ https://www.baeldung.com/java-dynamic-proxies
 
 https://www.baeldung.com/java-factory-pattern
 
+https://gitee.com/daliy-life/design-pattern.git
+
 # Active MQ
 
 [ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
