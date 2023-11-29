@@ -31,9 +31,11 @@ https://www.baeldung.com/java-factory-pattern
 
 https://gitee.com/daliy-life/design-pattern.git
 
-# Active MQ
+# MQ
 
 [ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
+
+[Rocket MQ Tutorial](https://www.bilibili.com/video/BV1tM4y1t7GE/?p=3&spm_id_from=pageDriver&vd_source=6763fad190c937baf811dce46ac76d54)
 
 # 深入浅出高并发
 
