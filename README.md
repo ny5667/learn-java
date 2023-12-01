@@ -31,6 +31,8 @@ https://www.baeldung.com/java-factory-pattern
 
 https://gitee.com/daliy-life/design-pattern.git
 
+https://github.com/ljjsimon/design-patterns-for-humans
+
 # MQ
 
 [ActiveMQ Tutorial](https://www.youtube.com/watch?v=zbgxzdzWyuk&list=PLmCsXDGbJHdgt5mskUPyhtBHQvQsRoJWj&index=4)
